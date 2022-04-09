@@ -4,5 +4,8 @@ public class Eks {
         do {
             System.out.println("xxx");
         } while (!cek);
+
+        System.out.println("Reza BaGUS sAPUTRA");
     }
+
 }
